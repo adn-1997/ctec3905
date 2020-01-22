@@ -1,0 +1,5 @@
+body { background: #d1bd7b; }
+  body { color: blue; }
+    h1 { color: green; }
+    h2 { color: red; }
+    p { font-style: oblique; }
